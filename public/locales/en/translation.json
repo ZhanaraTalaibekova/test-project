@@ -1,0 +1,72 @@
+{
+  "navigation": {
+    "home": "Home",
+    "addUser": "Add User",
+    "favorites": "Favorites",
+    "register": "Register",
+    "logout": "Log Out"
+  },
+  "newUser": {
+    "title": "New User",
+    "firstName": "First Name",
+    "firstNameRequired": "First Name is required",
+    "lastName": "Last Name",
+    "country": "Country",
+    "countryRequired": "Country is required",
+    "lastNameRequired": "Last Name is required",
+    "imageURL": "Image URL",
+    "submit": "Create"
+  },
+  "homePage": {
+    "country": "Country"
+  },
+  "user": {
+    "createdSuccess": "User created successfully!",
+    "createdError": "An error occurred while creating the user",
+    "deletedSuccess": "User deleted successfully!",
+    "deletedError": "Failed to delete user",
+    "deletedSuccessFromFavorites": "User deleted successfully from favorites!",
+    "deletedErrorFromFavorites": "Failed to delete user from favorites",
+    "updatedSuccess": "User updated successfully!",
+    "updatedError": "An error occurred while updating the user"
+  },
+  "addFavorites": {
+    "addedSuccess": "User successfully added to favorites!",
+    "addedError": "An error occurred while adding the user"
+  },
+  "auth": {
+    "registerSuccess": "You have successfully registered!",
+    "registerError": "An error occurred during registration",
+    "loginSuccess": "You have successfully logged in",
+    "loginError": "An error occurred during login"
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Home",
+    "favorites": "Favorites",
+    "in-dev": "In Dev"
+  },
+  "allUsers": "All Users",
+  "search": "Search",
+  "searchUser": "Search User",
+  "noFavoriteData": "You don't have any favorite data.",
+  "noFavoriteDataSubtitle": "Add some items to your favorites.",
+  "noUsers": "You don't have any users.",
+  "noUsersSubtitle": "Please create a new user.",
+  "create": "create",
+  "country": {
+    "USA": "United States",
+    "Canada": "Canada",
+    "UK": "United Kingdom",
+    "France": "France",
+    "Kyrgyzstan": "Kyrgyzstan",
+    "Kazakhstan": "Kazakhstan",
+    "Germany": "Germany",
+    "Japan": "Japan",
+    "China": "China"
+  },
+  "inDev": {
+    "title": "Page under development.",
+    "subTitle": "Please wait, it will be ready soon."
+  }
+}

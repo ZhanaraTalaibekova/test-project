@@ -1,0 +1,46 @@
+.header {
+  padding: 20px 0 8px 4px;
+  display: flex;
+  column-gap: 24px;
+
+  a {
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 16px;
+    line-height: 19.36px;
+    font-family: 'Inter', sans-serif;
+  }
+
+  a:hover {
+    color: #4B46E0;
+  }
+}
+
+.navLinks {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.languageButtons {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.languageButton {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.9rem;
+}
+
+.registerButton {
+  margin-left: auto;
+}
+
+.rightSection {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 16px;
+}

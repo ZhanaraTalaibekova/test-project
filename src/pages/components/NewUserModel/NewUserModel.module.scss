@@ -1,0 +1,16 @@
+.customPaperBox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+:global {
+  .MuiPaper-root {
+    border-radius: 16px !important;
+  }
+}
+
+.modelContainer {
+  min-height: 55vh;
+}

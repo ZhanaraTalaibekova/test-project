@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  list-style-type: none;
+  cursor: 'pointer',
+}
+
+.Toastify__toast-icon {
+  display: "none !importent";
+}
